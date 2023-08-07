@@ -1,0 +1,5 @@
+# Zettelkasten
+
+| Main                     | Refs                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| O Programador Pragmático | [A programação tem poucas leis, mas muitos padrões](/books/Programador_Pragmatico.md#a-programação-tem-poucas-leis-mas-muitos-padrões), [Não dê desculpas esfarrapadas](/books/Programador_Pragmatico.md#não-dê-desculpas-esfarrapadas), [Não deixe janelas quebradas](/books/Programador_Pragmatico.md#não-deixe-janelas-quebradas) |
