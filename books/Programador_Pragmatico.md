@@ -1,7 +1,5 @@
 # O Programador Pragmático
 
-[[_TOC_]]
-
 ## A programação tem poucas leis, mas muitos padrões
 
 > “Os autores evitaram propor uma teoria de desenvolvimento de software. Isso é bom, porque se o tivessem feito seriam obrigados a direcionar cara capítulo à defesa de sua teoria. Esse direcionamento é a tradição em, digamos, estudo da física, onde teorias acabam se tornando leis ou são descartadas sem alarde. **A programação, por outro lado, tem poucas leis (se tiver alguma).** Portanto, conselhos de programação estruturados em supostas leis soam bem por escrito, mas não funcionam na prática. E isso que está errado em tantos livros de metodologia.
